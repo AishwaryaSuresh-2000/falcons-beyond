@@ -131,11 +131,23 @@
             "text": "Give customers details about the banner image(s) or content on the template.",
             "text_style": "body"
           }
+        },
+        "b15de4cc-bb4e-4d94-8dec-1e3002f1d43b": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "template--20455596294457__c6b7c237-702b-4ce4-a9fc-2235ed14ed19-heading-1",
-        "template--20455596294457__c6b7c237-702b-4ce4-a9fc-2235ed14ed19-text-1"
+        "template--20455596294457__c6b7c237-702b-4ce4-a9fc-2235ed14ed19-text-1",
+        "b15de4cc-bb4e-4d94-8dec-1e3002f1d43b"
       ],
       "custom_css": [
         "h2 {color: red;}",
