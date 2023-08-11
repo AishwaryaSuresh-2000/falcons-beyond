@@ -121,7 +121,7 @@
         "template--20455596294457__c6b7c237-702b-4ce4-a9fc-2235ed14ed19-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "<strong>Duel across The Hidden Realms!<\/strong>",
             "heading_size": "h1"
           }
         },
@@ -131,11 +131,23 @@
             "text": "Give customers details about the banner image(s) or content on the template.",
             "text_style": "body"
           }
+        },
+        "f19a367b-4680-4263-86c6-ddca4cd2b0c9": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "template--20455596294457__c6b7c237-702b-4ce4-a9fc-2235ed14ed19-heading-1",
-        "template--20455596294457__c6b7c237-702b-4ce4-a9fc-2235ed14ed19-text-1"
+        "template--20455596294457__c6b7c237-702b-4ce4-a9fc-2235ed14ed19-text-1",
+        "f19a367b-4680-4263-86c6-ddca4cd2b0c9"
       ],
       "custom_css": [
         "h2 {color: red;}",
