@@ -1,1 +1,90 @@
-{"sections":{"9b29f50a-1307-4623-ac79-7ee3206e7130":{"type":"image-banner","disabled":true,"blocks":{"template--20455596163385__9b29f50a-1307-4623-ac79-7ee3206e7130-heading-1":{"type":"heading","disabled":true,"settings":{"heading":"Image banner","heading_size":"h1"}},"template--20455596163385__9b29f50a-1307-4623-ac79-7ee3206e7130-text-1":{"type":"text","disabled":true,"settings":{"text":"Give customers details about the banner image(s) or content on the template.","text_style":"body"}},"template--20455596163385__9b29f50a-1307-4623-ac79-7ee3206e7130-buttons-1":{"type":"buttons","disabled":true,"settings":{"button_label_1":"Button label","button_link_1":"","button_style_secondary_1":false,"button_label_2":"Button label","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--20455596163385__9b29f50a-1307-4623-ac79-7ee3206e7130-heading-1","template--20455596163385__9b29f50a-1307-4623-ac79-7ee3206e7130-text-1","template--20455596163385__9b29f50a-1307-4623-ac79-7ee3206e7130-buttons-1"],"settings":{"image":"shopify:\/\/shop_images\/2nd_banner.webp","image_overlay_opacity":0,"image_height":"medium","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"816e1138-e806-4ddf-a564-fa678b00c2d4":{"type":"collection-list","blocks":{"template--20455596163385__816e1138-e806-4ddf-a564-fa678b00c2d4-featured_collection-1":{"type":"featured_collection","settings":{"collection":"appreal"}},"template--20455596163385__816e1138-e806-4ddf-a564-fa678b00c2d4-featured_collection-2":{"type":"featured_collection","settings":{"collection":"accessiories"}},"template--20455596163385__816e1138-e806-4ddf-a564-fa678b00c2d4-featured_collection-3":{"type":"featured_collection","settings":{"collection":"toys-and-plush"}},"bad194bf-dfd6-406c-a43e-2b571e73aa89":{"type":"featured_collection","settings":{"collection":"souvenirs"}}},"block_order":["template--20455596163385__816e1138-e806-4ddf-a564-fa678b00c2d4-featured_collection-1","template--20455596163385__816e1138-e806-4ddf-a564-fa678b00c2d4-featured_collection-2","template--20455596163385__816e1138-e806-4ddf-a564-fa678b00c2d4-featured_collection-3","bad194bf-dfd6-406c-a43e-2b571e73aa89"],"settings":{"title":"Collections","heading_size":"h1","image_ratio":"square","columns_desktop":4,"color_scheme":"","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"banner":{"type":"main-collection-banner","disabled":true,"custom_css":[],"settings":{"show_collection_description":true,"show_collection_image":false,"color_scheme":"background-1"}},"3d0ff45e-13e3-4fef-8782-54b282e7e3d8":{"type":"featured-collection","disabled":true,"settings":{"title":"Featured collection","heading_size":"h1","description":"","show_description":false,"description_style":"body","collection":"","products_to_show":4,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"","image_ratio":"adapt","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"enable_quick_add":true,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"product-grid":{"type":"main-collection-product-grid","disabled":true,"settings":{"products_per_page":16,"columns_desktop":4,"image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"enable_filtering":true,"filter_type":"horizontal","enable_sorting":true,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"022f63ca-21d0-4279-8843-a8475910d715":{"type":"collection-list","blocks":{"template--20455596163385__022f63ca-21d0-4279-8843-a8475910d715-featured_collection-1":{"type":"featured_collection","settings":{"collection":"katmandu-park"}},"template--20455596163385__022f63ca-21d0-4279-8843-a8475910d715-featured_collection-2":{"type":"featured_collection","settings":{"collection":"katmandu-park™-apparel"}},"template--20455596163385__022f63ca-21d0-4279-8843-a8475910d715-featured_collection-3":{"type":"featured_collection","disabled":true,"settings":{"collection":""}},"f46a78ee-e619-46b8-b841-6fb2847c3f28":{"type":"featured_collection","disabled":true,"settings":{"collection":""}}},"block_order":["template--20455596163385__022f63ca-21d0-4279-8843-a8475910d715-featured_collection-1","template--20455596163385__022f63ca-21d0-4279-8843-a8475910d715-featured_collection-2","template--20455596163385__022f63ca-21d0-4279-8843-a8475910d715-featured_collection-3","f46a78ee-e619-46b8-b841-6fb2847c3f28"],"settings":{"title":"<strong>Shop by Brands<\/strong>","heading_size":"h1","image_ratio":"square","columns_desktop":3,"color_scheme":"","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"30865982-f5d5-454c-b1c2-0c85855cc503":{"type":"featured-collection","disabled":true,"settings":{"title":"Featured collection","heading_size":"h1","description":"","show_description":false,"description_style":"body","collection":"appreal","products_to_show":4,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}}},"order":["9b29f50a-1307-4623-ac79-7ee3206e7130","816e1138-e806-4ddf-a564-fa678b00c2d4","banner","3d0ff45e-13e3-4fef-8782-54b282e7e3d8","product-grid","022f63ca-21d0-4279-8843-a8475910d715","30865982-f5d5-454c-b1c2-0c85855cc503"]}
+{
+  "sections": {
+    "9b29f50a-1307-4623-ac79-7ee3206e7130": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20455596163385__9b29f50a-1307-4623-ac79-7ee3206e7130-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--20455596163385__9b29f50a-1307-4623-ac79-7ee3206e7130-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--20455596163385__9b29f50a-1307-4623-ac79-7ee3206e7130-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20455596163385__9b29f50a-1307-4623-ac79-7ee3206e7130-heading-1",
+        "template--20455596163385__9b29f50a-1307-4623-ac79-7ee3206e7130-text-1",
+        "template--20455596163385__9b29f50a-1307-4623-ac79-7ee3206e7130-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2nd_banner.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "9b29f50a-1307-4623-ac79-7ee3206e7130",
+    "banner",
+    "product-grid"
+  ]
+}
