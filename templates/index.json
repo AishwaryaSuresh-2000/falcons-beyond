@@ -100,7 +100,7 @@
         ".flickity-prev-next-button.next {right: -78px;}",
         ".flickity-prev-next-button.previous {left: -61px;}",
         ".banner__media media scroll-trigger animate--fade-in {margin: 40px 0px;}",
-        "*:focus-visible{outline:none; outline-offset:0 ;box-shadow:none;}"
+        "*:focus-visible {outline: none; outline-offset: 0; box-shadow: none;}"
       ],
       "settings": {
         "collection_main": "new-arrival",
@@ -173,12 +173,7 @@
       "custom_css": [
         ".flickity-prev-next-button.next {right: -78px;}",
         ".flickity-prev-next-button.previous {left: -52px;}",
-        "*,*::before,*::after {box-sizing: none;}",
-        "flickity-enabled.is-draggable {border: 1px solid black;}",
-        "flickity-viewport {outline: none; box-shadow: none;}",
-        "flickity-viewport {outline: none; box-shadow: none; border: 1px solid black;}",
-        ".slick-carousel-item:focus {outline: none;}",
-        ".slick-carousel-item:focus {outline: none; box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);}"
+        "*:focus-visible {outline: none; outline-offset: 0; box-shadow: none;}"
       ],
       "settings": {
         "collection_main": "new-arrival",
