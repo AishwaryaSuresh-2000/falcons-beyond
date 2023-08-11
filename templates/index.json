@@ -202,6 +202,7 @@
     },
     "54102da5-7a1e-44ad-b79c-02442cabc7f2": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [
         "{width: 100%;}",
         "div .text {width: 60%; border: 1px soild; margin: 0 auto;}"
@@ -249,7 +250,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
