@@ -131,23 +131,11 @@
             "text": "Give customers details about the banner image(s) or content on the template.",
             "text_style": "body"
           }
-        },
-        "f19a367b-4680-4263-86c6-ddca4cd2b0c9": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "shop  all",
-            "button_link_1": "shopify:\/\/collections",
-            "button_style_secondary_1": true,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": true
-          }
         }
       },
       "block_order": [
         "template--20455596294457__c6b7c237-702b-4ce4-a9fc-2235ed14ed19-heading-1",
-        "template--20455596294457__c6b7c237-702b-4ce4-a9fc-2235ed14ed19-text-1",
-        "f19a367b-4680-4263-86c6-ddca4cd2b0c9"
+        "template--20455596294457__c6b7c237-702b-4ce4-a9fc-2235ed14ed19-text-1"
       ],
       "custom_css": [
         "h2 {color: red;}",
@@ -215,13 +203,108 @@
     "54102da5-7a1e-44ad-b79c-02442cabc7f2": {
       "type": "custom-liquid",
       "custom_css": [
-        "{width: 100%;}"
+        "{width: 100%;}",
+        " div .text{width:60%; border:1px soild; margin:0 auto;}"
       ],
       "settings": {
-        "custom_liquid": "<h2>Sign up and get 10% off on your next order!<\/h2>\n<p>Get access to product drops, special offers, and more when you sign up! <p>",
+        "custom_liquid": "<div class=\"text\"><h2>Sign up and get 10% off on your next order!<\/h2>\n<p>Get access to product drops, special offers, and more when you sign up! <p>\n<\/div>",
         "color_scheme": "inverse",
         "padding_top": 20,
         "padding_bottom": 12
+      }
+    },
+    "bd816a0d-840c-4769-a884-98d45e494645": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20557733429561__bd816a0d-840c-4769-a884-98d45e494645-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--20557733429561__bd816a0d-840c-4769-a884-98d45e494645-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--20557733429561__bd816a0d-840c-4769-a884-98d45e494645-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20557733429561__bd816a0d-840c-4769-a884-98d45e494645-heading-1",
+        "template--20557733429561__bd816a0d-840c-4769-a884-98d45e494645-text-1",
+        "template--20557733429561__bd816a0d-840c-4769-a884-98d45e494645-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "faf7b6b6-d01e-470f-b648-9335b8764a57": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20557733429561__faf7b6b6-d01e-470f-b648-9335b8764a57-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--20557733429561__faf7b6b6-d01e-470f-b648-9335b8764a57-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--20557733429561__faf7b6b6-d01e-470f-b648-9335b8764a57-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20557733429561__faf7b6b6-d01e-470f-b648-9335b8764a57-heading-1",
+        "template--20557733429561__faf7b6b6-d01e-470f-b648-9335b8764a57-text-1",
+        "template--20557733429561__faf7b6b6-d01e-470f-b648-9335b8764a57-buttons-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
@@ -233,6 +316,8 @@
     "c6b7c237-702b-4ce4-a9fc-2235ed14ed19",
     "01b9385f-4de4-4f71-9c99-0c08eb9ebae4",
     "1691480337a6246c76",
-    "54102da5-7a1e-44ad-b79c-02442cabc7f2"
+    "54102da5-7a1e-44ad-b79c-02442cabc7f2",
+    "bd816a0d-840c-4769-a884-98d45e494645",
+    "faf7b6b6-d01e-470f-b648-9335b8764a57"
   ]
 }
