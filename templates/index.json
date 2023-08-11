@@ -213,50 +213,46 @@
         "padding_bottom": 12
       }
     },
-    "bd816a0d-840c-4769-a884-98d45e494645": {
-      "type": "image-with-text",
+    "292ba760-450e-4119-accf-03972bdebb7d": {
+      "type": "rich-text",
       "blocks": {
-        "template--20557733429561__bd816a0d-840c-4769-a884-98d45e494645-heading-1": {
+        "template--20557733429561__292ba760-450e-4119-accf-03972bdebb7d-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "<strong>Sign up and get 10% off on your next order<\/strong>!",
             "heading_size": "h1"
           }
         },
-        "template--20557733429561__bd816a0d-840c-4769-a884-98d45e494645-text-1": {
+        "template--20557733429561__292ba760-450e-4119-accf-03972bdebb7d-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         },
-        "template--20557733429561__bd816a0d-840c-4769-a884-98d45e494645-button-1": {
+        "template--20557733429561__292ba760-450e-4119-accf-03972bdebb7d-button-1": {
           "type": "button",
           "settings": {
             "button_label": "Button label",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--20557733429561__bd816a0d-840c-4769-a884-98d45e494645-heading-1",
-        "template--20557733429561__bd816a0d-840c-4769-a884-98d45e494645-text-1",
-        "template--20557733429561__bd816a0d-840c-4769-a884-98d45e494645-button-1"
+        "template--20557733429561__292ba760-450e-4119-accf-03972bdebb7d-heading-1",
+        "template--20557733429561__292ba760-450e-4119-accf-03972bdebb7d-text-1",
+        "template--20557733429561__292ba760-450e-4119-accf-03972bdebb7d-button-1"
       ],
-      "disabled": true,
       "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
@@ -269,6 +265,6 @@
     "01b9385f-4de4-4f71-9c99-0c08eb9ebae4",
     "1691480337a6246c76",
     "54102da5-7a1e-44ad-b79c-02442cabc7f2",
-    "bd816a0d-840c-4769-a884-98d45e494645"
+    "292ba760-450e-4119-accf-03972bdebb7d"
   ]
 }
