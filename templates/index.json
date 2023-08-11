@@ -235,7 +235,7 @@
           "settings": {
             "button_label": "Shop Now",
             "button_link": "shopify:\/\/collections\/all",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -246,6 +246,9 @@
         "template--20557733429561__292ba760-450e-4119-accf-03972bdebb7d-heading-1",
         "template--20557733429561__292ba760-450e-4119-accf-03972bdebb7d-text-1",
         "template--20557733429561__292ba760-450e-4119-accf-03972bdebb7d-button-1"
+      ],
+      "custom_css": [
+        "button {color: red;}"
       ],
       "settings": {
         "desktop_content_position": "center",
