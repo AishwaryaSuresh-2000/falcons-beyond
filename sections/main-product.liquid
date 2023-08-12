@@ -481,13 +481,18 @@
             {%- when 'variant_picker' -%}
               {% render 'product-variant-picker', product: product, block: block, product_form_id: product_form_id %}
 
-{%- when 'buy_buttons' -%}
-  {% if product.tags contains settings.description %}   
-         <p> this product not for sale<p> 
+            {%- when 'buy_buttons' -%}
+            {% assign myString = "settings.description" %}
+            {% assign myArray = myString | split: ',' %}
+            {% for item in myArray %}
+            {% if product.tags contains myArray %} 
 
-{% else %}           
+            <p>this is not for sale</p>
+
+            {% else %}  
            {%- render 'buy-buttons', block: block, product: product, product_form_id: product_form_id, section_id: section.id, show_pickup_availability: true -%}
            {% endif %}  
+           {% endfor %}
             {%- when 'rating' -%}
               {%- if product.metafields.reviews.rating.value != blank -%}
                 {% liquid
