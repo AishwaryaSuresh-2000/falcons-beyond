@@ -50,11 +50,14 @@
         class: 'form',
         novalidate: 'novalidate',
         data-type: 'add-to-cart-form'
+       
+
       -%}
         {% if product.metafields.custom.ring_fields %}
       <p class="cart-attribute__field">
-  <label for="engrave">Engrave</label>
-  <input id="engrave" type="text" name="attributes[Engrave]" value="{{ cart.attributes["Engrave"] }}">
+<label for="engrave">Engrave</label>
+  <input id="engrave" type="text" name="attributes[Engrave]">
+
 </p><br>
  {% endif %}
     
@@ -98,12 +101,10 @@
          
   
 {% else %}
- 
+  
   {{ 'products.product.add_to_cart' | t }}
 
-
-
-
+ 
 
               {%- endif -%}
             </span>
