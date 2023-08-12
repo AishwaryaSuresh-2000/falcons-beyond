@@ -1,1 +1,57 @@
-{"name":"t:sections.footer.name","type":"footer","sections":{"footer":{"type":"footer","blocks":{"674b2a79-fe9a-4f6f-afdc-fefdf49eb4de":{"type":"link_list","settings":{"heading":"Quick links","menu":"footer"}},"f702187e-63dd-4bf5-9514-20b115b57fba":{"type":"link_list","settings":{"heading":"Quick links","menu":"footer"}}},"block_order":["674b2a79-fe9a-4f6f-afdc-fefdf49eb4de","f702187e-63dd-4bf5-9514-20b115b57fba"],"settings":{"color_scheme":"background-1","newsletter_enable":true,"newsletter_heading":"Subscribe to our emails","enable_follow_on_shop":true,"show_social":true,"enable_country_selector":true,"enable_language_selector":true,"payment_enable":true,"show_policy":false,"margin_top":0,"padding_top":36,"padding_bottom":36}},"b196b2a4-3534-4b42-b3b1-5b3f21e58cc4":{"type":"custom-liquid","disabled":true,"settings":{"custom_liquid":"","color_scheme":"","padding_top":40,"padding_bottom":52}}},"order":["footer","b196b2a4-3534-4b42-b3b1-5b3f21e58cc4"]}
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "674b2a79-fe9a-4f6f-afdc-fefdf49eb4de": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "f702187e-63dd-4bf5-9514-20b115b57fba": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "674b2a79-fe9a-4f6f-afdc-fefdf49eb4de",
+        "f702187e-63dd-4bf5-9514-20b115b57fba"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b196b2a4-3534-4b42-b3b1-5b3f21e58cc4": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "footer",
+    "b196b2a4-3534-4b42-b3b1-5b3f21e58cc4"
+  ]
+}
