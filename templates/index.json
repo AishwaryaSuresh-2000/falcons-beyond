@@ -179,7 +179,7 @@
         ".text-title {font-weight: bold; font-size: 20px;}"
       ],
       "settings": {
-        "collection_main": "new-arrival",
+        "collection_main": "best-sellers",
         "collection_limit": 4,
         "bg": "",
         "title": "BEST SELLERS",
