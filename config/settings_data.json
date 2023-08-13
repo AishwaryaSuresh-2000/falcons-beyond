@@ -407,9 +407,9 @@
   "platform_customizations": {
     "custom_css": [
       ".related-product {width: 55%;}",
-      ".button {color: white; background-color: red;}",
+      ".button--secondary {color: white; background-color: red;}",
       ".text-title {font-size: 30px; font-weight: bold;}",
-      ".carousel__cell h5 {font-size: 20px; text-underline:none;}"
+      ".carousel__cell h5 {font-size: 20px; text-underline: none;}"
     ]
   }
 }
