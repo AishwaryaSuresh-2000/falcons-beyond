@@ -99,10 +99,11 @@
     "94358b14-8e26-4e66-b5d9-88aadfd0f7a0": {
       "type": "Feature-slider",
       "custom_css": [
-        ".flickity-prev-next-button.next {right: -78px;}",
+        "ext.flickity-prev-next-button.next {right: -78px;}",
         ".flickity-prev-next-button.previous {left: -61px;}",
         ".banner__media media scroll-trigger animate--fade-in {margin: 40px 0px;}",
-        "*:focus-visible {outline: none; outline-offset: 0; box-shadow: none;}"
+        "*:focus-visible {outline: none; outline-offset: 0; box-shadow: none;}",
+        "text_title{font-size:20px; font-weight: bold;}"
       ],
       "settings": {
         "collection_main": "new-arrival",
