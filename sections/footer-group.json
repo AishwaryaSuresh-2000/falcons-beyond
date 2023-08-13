@@ -18,11 +18,27 @@
             "heading": "Brands",
             "menu": "brand"
           }
+        },
+        "85f5a612-0580-4956-9ccc-d994cd7a5d45": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Help",
+            "menu": "help"
+          }
+        },
+        "6d8c712d-79f9-4ae8-9d68-6de6871465b5": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Sign Up",
+            "menu": "sign-up"
+          }
         }
       },
       "block_order": [
         "674b2a79-fe9a-4f6f-afdc-fefdf49eb4de",
-        "f702187e-63dd-4bf5-9514-20b115b57fba"
+        "f702187e-63dd-4bf5-9514-20b115b57fba",
+        "85f5a612-0580-4956-9ccc-d994cd7a5d45",
+        "6d8c712d-79f9-4ae8-9d68-6de6871465b5"
       ],
       "settings": {
         "color_scheme": "background-1",
