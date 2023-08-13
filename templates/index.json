@@ -103,7 +103,7 @@
         ".flickity-prev-next-button.previous {left: -61px;}",
         ".banner__media media scroll-trigger animate--fade-in {margin: 40px 0px;}",
         "*:focus-visible {outline: none; outline-offset: 0; box-shadow: none;}",
-        "text_title{font-size:20px; font-weight: bold;}"
+        "text_title {font-size: 20px; font-weight: bold;}"
       ],
       "settings": {
         "collection_main": "new-arrival",
@@ -257,12 +257,12 @@
         "template--20557733429561__292ba760-450e-4119-accf-03972bdebb7d-button-1"
       ],
       "custom_css": [
-        "button {color: red;}"
+
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "inverse",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
