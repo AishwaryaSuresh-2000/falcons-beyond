@@ -406,7 +406,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".related-product {width: 55%;}"
+      ".related-product {width: 55%;}",
+      ".button{color:white; background-color:red}"
     ]
   }
 }
