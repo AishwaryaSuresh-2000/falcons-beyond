@@ -2,14 +2,14 @@
   margin-top: 0;
   margin-bottom: 0;
 }
-
+.card__heading{
+  display:none;
+}
 .collection-list-title {
   margin: 20px 40px 20px 0px;
   font-weight:bold;
 }
-.card__heading{
-  display:none;
-}
+
 
 @media screen and (max-width: 749px) {
   .collection-list:not(.slider) {
