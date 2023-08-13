@@ -79,7 +79,9 @@
       "custom_css": [
         ".card {margin: 20px; width: 60%;}",
         ".collection-list-title {margin: 10px;}",
-        ".card {margin: 0 auto;}"
+        ".card {margin: 0 auto;}",
+        ".collection-list-title {margin: 20px 40px 20px 0px; font-weight: bold;}",
+        ".card__heading {display: none;}"
       ],
       "settings": {
         "title": "<a href=\"\/collections\/all\" title=\"All products\">SHOP BY BRANDS<\/a>",
