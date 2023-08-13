@@ -109,7 +109,8 @@
         }
         #related-products-{{ block.id }} .related-product {
           display: inline-block;
-          width: calc(25% - 0.4rem);
+        
+              width: calc(47% - 0.4rem);
           margin: 0px 0.4rem 0.8rem 0px;
           position: relative;
           border: 1px solid transparent;
@@ -476,18 +477,23 @@
 
           </div>
         {% endif %}
-
           
             {%- when 'variant_picker' -%}
               {% render 'product-variant-picker', product: product, block: block, product_form_id: product_form_id %}
 
 {%- when 'buy_buttons' -%}
-  {% if product.tags contains settings.description %}   
-         <p> this product not for sale<p> 
 
-{% else %}           
-           {%- render 'buy-buttons', block: block, product: product, product_form_id: product_form_id, section_id: section.id, show_pickup_availability: true -%}
-           {% endif %}  
+    {% if product.tags contains settings.description %}
+       
+        <p>This product is not for sale</p>
+
+   {% else %}
+
+    {%- render 'buy-buttons', block: block, product: product, product_form_id: product_form_id, section_id: section.id, show_pickup_availability: true -%}
+
+{% endif %}
+
+
             {%- when 'rating' -%}
               {%- if product.metafields.reviews.rating.value != blank -%}
                 {% liquid

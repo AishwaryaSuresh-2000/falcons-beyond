@@ -342,6 +342,9 @@
             >
               {{- 'products.product.on_sale' | t -}}
             </span>
+                	 
+          	{%- elsif card_product.tags contains 'new' -%}
+          	<span class="card__badge--new">{{ 'new' }}</span>
           {%- endif -%}
         </div>
       </div>
