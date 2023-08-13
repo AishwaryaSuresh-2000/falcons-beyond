@@ -80,7 +80,8 @@
         ".card {margin: 20px; width: 60%;}",
         ".collection-list-title {margin: 10px;}",
         ".card {margin: 0 auto;}",
-        ".card__heading {display: none;}"
+        ".card__heading {display: none;}",
+        ".collection-list-title{font-weight:bold; margin:20px 40px 20px 0px ;}"
       ],
       "settings": {
         "title": "<a href=\"\/collections\/all\" title=\"All products\">SHOP BY BRANDS<\/a>",
