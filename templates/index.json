@@ -103,7 +103,7 @@
         ".flickity-prev-next-button.previous {left: -61px;}",
         ".banner__media media scroll-trigger animate--fade-in {margin: 40px 0px;}",
         "*:focus-visible {outline: none; outline-offset: 0; box-shadow: none;}",
-        "text_title {font-size: 20px; font-weight: bold;}"
+        ".text_title {font-size: 20px; font-weight: bold;}"
       ],
       "settings": {
         "collection_main": "new-arrival",
