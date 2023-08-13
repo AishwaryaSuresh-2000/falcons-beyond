@@ -175,7 +175,8 @@
       "custom_css": [
         ".flickity-prev-next-button.next {right: -78px;}",
         ".flickity-prev-next-button.previous {left: -52px;}",
-        "*:focus-visible {outline: none; outline-offset: 0; box-shadow: none;}"
+        "*:focus-visible {outline: none; outline-offset: 0; box-shadow: none;}",
+        ".text-title {font-weight: bold; font-size: 20px;}"
       ],
       "settings": {
         "collection_main": "new-arrival",
