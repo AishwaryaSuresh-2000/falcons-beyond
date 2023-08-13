@@ -1,1 +1,67 @@
-{"name":"t:sections.header.name","type":"header","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-bar-0":{"type":"announcement","settings":{"text":"FREE SHIPPING on orders of $75 or more!","link":"shopify:\/\/collections"}},"93bcb799-923a-4388-9d84-97c459f81375":{"type":"announcement","settings":{"text":"10% off on your first sign up","link":""}}},"block_order":["announcement-bar-0","93bcb799-923a-4388-9d84-97c459f81375"],"custom_css":["{max-width: 100%; width: 100%; background-color: black; color: white;}"],"settings":{"color_scheme":"inverse","show_line_separator":true,"show_social":false,"auto_rotate":false,"change_slides_speed":5,"enable_country_selector":false,"enable_language_selector":false}},"header":{"type":"header","custom_css":["header {width: 100%; max-width: 100%;}","header__menu-item {padding: 40px;}"],"settings":{"logo_position":"middle-center","menu":"main-menu","menu_type_desktop":"dropdown","sticky_header_type":"none","show_line_separator":true,"color_scheme":"background-1","menu_color_scheme":"background-1","enable_country_selector":false,"enable_language_selector":false,"mobile_logo_position":"center","margin_bottom":0,"padding_top":12,"padding_bottom":12}},"43b7b5eb-2c6a-4dee-95e3-01dbc2207b53":{"type":"custom-liquid","custom_css":["{width: 60%; margin: 0 auto;}","ul{display:flex;}","li{list-style:none; padding:0px 20px;}"],"settings":{"custom_liquid":"<ul><li>BRANDS <\/li>\n<li>APPAREL <\/li>\n<li>ACCESSORIES <\/li>\n<li>TOYS AND PLUSH<\/li>\n<li> HOME DECOR <\/li>\n<li>SOVENIRS<\/li>\n<\/ul>","color_scheme":"","padding_top":40,"padding_bottom":52}}},"order":["announcement-bar","header","43b7b5eb-2c6a-4dee-95e3-01dbc2207b53"]}
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "FREE SHIPPING on orders of $75 or more!",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "93bcb799-923a-4388-9d84-97c459f81375": {
+          "type": "announcement",
+          "settings": {
+            "text": "10% off on your first sign up",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0",
+        "93bcb799-923a-4388-9d84-97c459f81375"
+      ],
+      "custom_css": [
+        "{max-width: 100%; width: 100%; background-color: black; color: white;}"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "custom_css": [
+        "header {width: 100%; max-width: 100%;}",
+        "header__menu-item {padding: 40px;}"
+      ],
+      "settings": {
+        "logo_position": "middle-center",
+        "menu": "main-menu",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "none",
+        "show_line_separator": true,
+        "color_scheme": "background-1",
+        "menu_color_scheme": "background-1",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
