@@ -5,11 +5,18 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "c726ee9d-1517-48be-bd77-71d607f4738d": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Menu",
+            "menu": "main-menu"
+          }
+        },
         "674b2a79-fe9a-4f6f-afdc-fefdf49eb4de": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
+            "heading": "Brands",
+            "menu": "brand"
           }
         },
         "f702187e-63dd-4bf5-9514-20b115b57fba": {
@@ -18,19 +25,12 @@
             "heading": "Quick links",
             "menu": "footer"
           }
-        },
-        "c726ee9d-1517-48be-bd77-71d607f4738d": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Menu",
-            "menu": "brand"
-          }
         }
       },
       "block_order": [
+        "c726ee9d-1517-48be-bd77-71d607f4738d",
         "674b2a79-fe9a-4f6f-afdc-fefdf49eb4de",
-        "f702187e-63dd-4bf5-9514-20b115b57fba",
-        "c726ee9d-1517-48be-bd77-71d607f4738d"
+        "f702187e-63dd-4bf5-9514-20b115b57fba"
       ],
       "settings": {
         "color_scheme": "background-1",
