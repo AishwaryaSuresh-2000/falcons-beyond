@@ -396,7 +396,7 @@
     "custom_css": [
       ".related-product {width: 55%;}",
       ".imageBoxInfoDescription h1,h2 {color: white;}",
-      "#insta-feed h2 {color: black;}"
+      "#insta-feed h2 {color: black; font-weight:bold;}"
     ]
   }
 }
