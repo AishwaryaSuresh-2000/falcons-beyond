@@ -394,7 +394,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".related-product {width: 55%;}"
+      ".related-product {width: 55%;}",
+      ".imageBoxInfoDescription h1,h2 {color: white;}"
     ]
   }
 }
