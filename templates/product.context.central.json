@@ -4,5 +4,37 @@
     "market": "central"
   },
   "sections": {
-  }
+    "main": {
+      "settings": {
+      },
+      "blocks": {
+        "58b7602b-b6a7-4b20-9391-5a49658321e6": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "material",
+            "icon": "none",
+            "content": "{{ product.metafields.custom.material | metafield_tag }}",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "share",
+        "6a440638-bacd-48f5-8484-1623c8aeb0f8",
+        "58b7602b-b6a7-4b20-9391-5a49658321e6"
+      ]
+    }
+  },
+  "order": [
+    "main",
+    "related-products",
+    "f08e7004-5252-42ae-aa56-041d827eedf3"
+  ]
 }
