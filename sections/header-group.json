@@ -9,7 +9,7 @@
           "type": "announcement",
           "settings": {
             "text": "FREE SHIPPING on orders of $75 or more!",
-            "link": ""
+            "link": "shopify:\/\/collections"
           }
         },
         "93bcb799-923a-4388-9d84-97c459f81375": {
@@ -18,20 +18,11 @@
             "text": "10% off on your first sign up",
             "link": "https:\/\/shopify.com\/81023729977\/account"
           }
-        },
-        "c760e059-90dc-4c1c-a4d8-76990fb5f3bc": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "Welcome to our store",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "93bcb799-923a-4388-9d84-97c459f81375",
-        "c760e059-90dc-4c1c-a4d8-76990fb5f3bc"
+        "93bcb799-923a-4388-9d84-97c459f81375"
       ],
       "custom_css": [
         "{max-width: 100%; width: 100%; background-color: black; color: white;}"
@@ -53,7 +44,7 @@
         "header__menu-item {padding: 40px;}"
       ],
       "settings": {
-        "logo_position": "top-center",
+        "logo_position": "middle-center",
         "menu": "main-menu",
         "menu_type_desktop": "dropdown",
         "sticky_header_type": "none",
