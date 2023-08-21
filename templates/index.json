@@ -25,7 +25,7 @@
         ".videoBackground {height: auto;}",
         ".videoBackground .fullscreen-video-wrap .video-js {position: absolute; top: 0; left: 0; min-height: 100%; min-width: 100%; width: 100%; object-fit: cover;}",
         "overlay:before {background-color: rgba(0, 0, 0, 0.5);}",
-        " h1 {color: white; }"
+        "h1 {color: white;}"
       ],
       "settings": {
       }
@@ -80,7 +80,8 @@
       "custom_css": [
         ".card {margin: 20px; width: 60%;}",
         ".collection-list-title {margin: 10px;}",
-        ".card {margin: 0 auto;}"
+        ".card {margin: 0 auto;}",
+        ".collection-list-title {margin: 20px 40px 20px 0px; font-weight: bold;}"
       ],
       "settings": {
         "title": "<a href=\"\/collections\/all\" title=\"All products\">SHOP BY BRANDS<\/a>",
