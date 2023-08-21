@@ -9,6 +9,8 @@
   if section.settings.enable_country_selector or section.settings.enable_language_selector
     assign language_country_selector = true
   endif
+ 
+ 
   if section.blocks.size > 0
     assign announcement_bar = true
   endif
@@ -26,7 +28,7 @@
     {%- if section.settings.show_social and social_icons -%}
       {%- render 'social-icons' -%}
     {%- endif -%}
-    {%- if section.blocks.size == 1 -%}
+    {% if customer %}
       <div
         class="announcement-bar{% if section.settings.show_social %} announcement-bar--one-announcement{% endif %}"
         role="region"
@@ -51,7 +53,7 @@
           {%- endif -%}
         {%- endif -%}
       </div>
-    {%- elsif section.blocks.size > 1 -%}
+    {%- else -%}
       <slideshow-component
         class="announcement-bar"
         role="region"
@@ -318,3 +320,7 @@
   ]
 }
 {% endschema %}
+
+
+
+
