@@ -10,7 +10,7 @@
             "overlay_opacity": 9,
             "title": "",
             "text": "<h1><strong>Take your shopping experience BEYOND!<\/strong><\/h1><h2>Explore our latest collaborations <br\/>and shop collectibles<\/h2>",
-            "color_text": "#ffffff",
+            "color_text": "#fff",
             "button_label": "shop now",
             "button_link": "shopify:\/\/collections\/all",
             "color_btn_bg": "#dd1d1d",
