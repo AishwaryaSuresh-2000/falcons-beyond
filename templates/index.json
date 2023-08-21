@@ -9,7 +9,7 @@
             "video_link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/d799862b10484ff2adbd0c7bd6f11efe.mp4",
             "overlay_opacity": 9,
             "title": "",
-            "text": "<h1><strong>Take your shopping experience BEYOND!<\/strong><\/h1><h2>Explore our latest collaborations <br\/>and shop collectibles<\/h2>",
+            "text": "<h1><strong>Take your shopping experience BEYOND!<\/strong><\/h1><h1>Explore our latest collaborations <br\/>and shop collectibles<\/h1>",
             "color_text": "#fff",
             "button_label": "shop now",
             "button_link": "shopify:\/\/collections\/all",
@@ -24,7 +24,8 @@
       "custom_css": [
         ".videoBackground {height: auto;}",
         ".videoBackground .fullscreen-video-wrap .video-js {position: absolute; top: 0; left: 0; min-height: 100%; min-width: 100%; width: 100%; object-fit: cover;}",
-        "overlay:before {background-color: rgba( 0, 0, 0, 0.5 ); \/* Change the color and opacity as needed *\/ z-index: 1;}"
+        "overlay:before {background-color: rgba(0, 0, 0, 0.5);}",
+        " h1 {color: white; }"
       ],
       "settings": {
       }
