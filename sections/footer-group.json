@@ -25,12 +25,20 @@
             "heading": "Help",
             "menu": "help"
           }
+        },
+        "d8cdde62-a96d-4cc5-9f83-9e72d346ed6d": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Sign Up",
+            "menu": "sign-up"
+          }
         }
       },
       "block_order": [
         "674b2a79-fe9a-4f6f-afdc-fefdf49eb4de",
         "f702187e-63dd-4bf5-9514-20b115b57fba",
-        "c2677672-df86-49e2-bd82-39259f8cd32b"
+        "c2677672-df86-49e2-bd82-39259f8cd32b",
+        "d8cdde62-a96d-4cc5-9f83-9e72d346ed6d"
       ],
       "settings": {
         "color_scheme": "background-1",
