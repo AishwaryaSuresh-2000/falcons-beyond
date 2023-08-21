@@ -152,7 +152,6 @@
         "b15de4cc-bb4e-4d94-8dec-1e3002f1d43b"
       ],
       "custom_css": [
-        "h2 {color: red;}",
         ".banner__box {background-color: transparent;}",
         ".banner {margin: 50px 0px;}"
       ],
