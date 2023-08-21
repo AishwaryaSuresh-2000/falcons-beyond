@@ -15,14 +15,22 @@
         "f702187e-63dd-4bf5-9514-20b115b57fba": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
+            "heading": "Brands",
+            "menu": "brand"
+          }
+        },
+        "c2677672-df86-49e2-bd82-39259f8cd32b": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Help",
+            "menu": "help"
           }
         }
       },
       "block_order": [
         "674b2a79-fe9a-4f6f-afdc-fefdf49eb4de",
-        "f702187e-63dd-4bf5-9514-20b115b57fba"
+        "f702187e-63dd-4bf5-9514-20b115b57fba",
+        "c2677672-df86-49e2-bd82-39259f8cd32b"
       ],
       "settings": {
         "color_scheme": "background-1",
