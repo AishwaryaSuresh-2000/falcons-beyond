@@ -8,8 +8,8 @@
           "settings": {
             "video_link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/d799862b10484ff2adbd0c7bd6f11efe.mp4",
             "overlay_opacity": 9,
-            "title": "Video slide",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "title": "",
+            "text": "<h1><strong>Take your shopping experience BEYOND!<\/strong><\/h1><h1>Explore our latest collaborations and shop collectibles<\/h1>",
             "color_text": "#ffffff",
             "button_label": "shop now",
             "button_link": "shopify:\/\/collections\/all",
