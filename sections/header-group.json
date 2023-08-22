@@ -9,14 +9,14 @@
           "type": "announcement",
           "settings": {
             "text": "FREE SHIPPING on orders of $75 or more!",
-            "link": ""
+            "link": "shopify:\/\/collections"
           }
         },
         "93bcb799-923a-4388-9d84-97c459f81375": {
           "type": "announcement",
           "settings": {
             "text": "10% off on your first sign up",
-            "link": ""
+            "link": "https:\/\/falconsbeyond.myshopify.com\/account\/login"
           }
         }
       },
