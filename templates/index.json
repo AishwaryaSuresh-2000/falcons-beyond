@@ -128,7 +128,7 @@
         "template--20455596294457__c6b7c237-702b-4ce4-a9fc-2235ed14ed19-text-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "<strong>The Age of Artifacts™ Collectible Trading Card Game is a fast-paced, easy-to-learn battle between two Champions across three lanes of combat.<\/strong>",
             "text_style": "body"
           }
         },
@@ -150,7 +150,6 @@
         "b15de4cc-bb4e-4d94-8dec-1e3002f1d43b"
       ],
       "custom_css": [
-        "h2 {color: red;}",
         ".banner__box {background-color: transparent;}",
         ".banner {margin: 50px 0px;}"
       ],
