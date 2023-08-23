@@ -16,10 +16,7 @@
 .rich-text__blocks {
   width: 100%;
 }
-.button{
-  background-color: red;
-  color:white;
-}
+
 @media screen and (min-width: 750px) {
   .rich-text__wrapper {
     width: 100%;
