@@ -151,7 +151,8 @@
       ],
       "custom_css": [
         ".banner__box {background-color: transparent;}",
-        ".banner {margin: 50px 0px;}"
+        ".banner {margin: 50px 0px;}",
+        ".button {color: white; background-color: red;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/banner3.webp",
@@ -254,7 +255,7 @@
         "template--20557733429561__292ba760-450e-4119-accf-03972bdebb7d-button-1"
       ],
       "custom_css": [
-
+        ".button{color:white; background-color:red}"
       ],
       "settings": {
         "desktop_content_position": "center",
