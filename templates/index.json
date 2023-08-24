@@ -176,10 +176,10 @@
         "*:focus-visible {outline: none; outline-offset: 0; box-shadow: none;}"
       ],
       "settings": {
-        "collection_main": "new-arrival",
+        "collection_main": "best-sellers",
         "collection_limit": 4,
         "bg": "",
-        "title": "NEW ARRIVALS",
+        "title": "BEST SELLERS",
         "img_width": 200,
         "cell_align": "left",
         "title_mb": 33,
@@ -192,7 +192,7 @@
       "type": "apps",
       "blocks": {
         "6e71a1b3-88a2-4ac1-a233-65c8ae74be0e": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "heading_size": 20,
             "feed_width": 100,
@@ -255,7 +255,7 @@
         "template--20557733429561__292ba760-450e-4119-accf-03972bdebb7d-button-1"
       ],
       "custom_css": [
-        ".button{color:white; background-color:red}"
+        ".button {color: white; background-color: red;}"
       ],
       "settings": {
         "desktop_content_position": "center",
