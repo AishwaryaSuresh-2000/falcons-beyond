@@ -57,6 +57,13 @@
             "heading_color": "#121212",
             "hover_border_color": "#121212"
           }
+        },
+        "780641ac-1ff4-413a-9f3e-abff651f24fa": {
+          "type": "popup",
+          "settings": {
+            "text": "Pop-up link text",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -68,7 +75,8 @@
         "buy_buttons",
         "description",
         "share",
-        "6a440638-bacd-48f5-8484-1623c8aeb0f8"
+        "6a440638-bacd-48f5-8484-1623c8aeb0f8",
+        "780641ac-1ff4-413a-9f3e-abff651f24fa"
       ],
       "custom_css": [
 
