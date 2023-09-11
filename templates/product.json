@@ -48,6 +48,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "8b3a80b1-1f39-475a-9fd6-0c8bdf85c09d": {
+          "type": "popup",
+          "settings": {
+            "text": "Pop-up link text",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -58,7 +65,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "8b3a80b1-1f39-475a-9fd6-0c8bdf85c09d"
       ],
       "custom_css": [
 
