@@ -55,6 +55,15 @@
             "text": "Pop-up link text",
             "page": ""
           }
+        },
+        "8c7dd648-b5d9-4606-8942-00f8d75a3bce": {
+          "type": "related_products",
+          "settings": {
+            "heading": "Related Products",
+            "heading_font_size": 18,
+            "heading_color": "#121212",
+            "hover_border_color": "#121212"
+          }
         }
       },
       "block_order": [
@@ -66,7 +75,8 @@
         "buy_buttons",
         "description",
         "share",
-        "8b3a80b1-1f39-475a-9fd6-0c8bdf85c09d"
+        "8b3a80b1-1f39-475a-9fd6-0c8bdf85c09d",
+        "8c7dd648-b5d9-4606-8942-00f8d75a3bce"
       ],
       "custom_css": [
 
