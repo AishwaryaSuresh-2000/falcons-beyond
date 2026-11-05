@@ -471,12 +471,7 @@
               </a>
             {%- when 'share' -%}
               {% assign share_url = product.selected_variant.url | default: product.url | prepend: request.origin %}
-              {% render 'share-button',}
-                block: block,
-                share_link: share_url
-
-          </div>
-        {% endif %}
+              {% render 'share-button', block: block, share_link: share_url %}
           
             {%- when 'variant_picker' -%}
               {% render 'product-variant-picker', product: product, block: block, product_form_id: product_form_id %}
@@ -2296,3 +2291,19 @@
   ]
 }
 {% endschema %}
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: |-
+    {% render 'share-button',}
+                    block: block,
+                    share_link: share_url
+
+              </div>
+            {% endif %}
+  to: "{% render 'share-button', block: block, share_link: share_url %}"
+  position: 26598..26662
+{% endcomment %}
